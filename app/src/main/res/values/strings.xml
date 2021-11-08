@@ -3,4 +3,11 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="homework">homework</string>
+    <string name="search">search</string>
+    <string name="content_description_search">content_description_search</string>
+    <string name="content_description_more">content_description_more</string>
+    <string name="content_description_favorite">content_description_favorite</string>
+    <string name="more">more</string>
+    <string name="favorite">favorite</string>
 </resources>
